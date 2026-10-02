@@ -154,6 +154,17 @@
    "emoji": "😴",
    "color": "#1d2530",
    "img": ""
-  }
+  },
+    {
+    "id": "p_ornek1",
+    "name": "Örnek Ürün",
+    "price": 150000,
+    "old": 180000,
+    "cat": "نسائية",
+    "stock": true,
+    "emoji": "👗",
+    "img": ""
+  },
+  
  ]
 }

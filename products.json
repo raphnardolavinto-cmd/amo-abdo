@@ -1,5 +1,5 @@
 {
- "rev": 1791026831249,
+ "rev": 1791028088660,
  "products": [
   {
    "id": "p1791026815705",
@@ -10,7 +10,14 @@
    "stock": true,
    "emoji": "🧥",
    "color": "#2a2a2e",
-   "img": "images/p1791026815705-musb4mft.jpg"
+   "img": "images/p1791026815705-musb4mft.jpg",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "id": "p1790952028436",

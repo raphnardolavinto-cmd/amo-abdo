@@ -1,5 +1,5 @@
 {
- "rev": 1791042405878,
+ "rev": 1791046659297,
  "products": [
   {
    "id": "p1791042378591",
@@ -90,17 +90,6 @@
    "img": "images/p1791041223046-musjpu79.jpg"
   },
   {
-   "id": "p1791034309865",
-   "name": "بنطلون",
-   "price": 1500,
-   "old": 150000,
-   "cat": "رجالية",
-   "stock": true,
-   "emoji": "👕",
-   "color": "#2a2a2e",
-   "img": "images/p1791034309865-musfl58b.jpg"
-  },
-  {
    "id": "p1791033188190",
    "name": "تفاقبت",
    "price": 250000,
@@ -114,97 +103,87 @@
   {
    "id": "p1791026815705",
    "name": "بيجامة",
-   "price": 666666,
-   "old": 666666,
-   "cat": "رجالية",
+   "price": 0,
+   "old": 0,
+   "cat": "ولادية",
    "stock": true,
    "emoji": "🧥",
    "color": "#2a2a2e",
    "img": "images/p1791026815705-musb4mft.jpg",
-   "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
-  },
-  {
-   "id": "p1790952028436",
-   "name": "Vb",
-   "price": 890,
-   "old": 56,
-   "cat": "نسائية",
-   "stock": true,
-   "emoji": "👕",
-   "color": "#2a2a2e",
-   "img": ""
+   "sizes": []
   },
   {
    "id": "d0",
-   "name": "فستان نسائي سهرة",
-   "price": 180000,
-   "old": 220000,
-   "cat": "نسائية",
+   "name": "بيجامة بناتي محير",
+   "price": 0,
+   "old": 0,
+   "cat": "بيجامات",
    "stock": true,
    "emoji": "👗",
    "color": "#3a1d28",
-   "img": ""
+   "img": "images/d0-musmxdxz.jpg",
+   "sizes": []
   },
   {
    "id": "d1",
-   "name": "فستان صيفي مورّد",
-   "price": 130000,
+   "name": "كنزة موهر محير",
+   "price": 0,
    "old": 0,
    "cat": "نسائية",
    "stock": true,
    "emoji": "🌸",
    "color": "#33202b",
-   "img": ""
+   "img": "images/d1-musmxh1t.jpg"
   },
   {
    "id": "d2",
-   "name": "عباية سوداء مطرزة",
-   "price": 240000,
+   "name": "بيجامة قطن فليس تركي",
+   "price": 0,
    "old": 0,
-   "cat": "نسائية",
+   "cat": "رجالية",
    "stock": false,
    "emoji": "🧕",
    "color": "#1f1f24",
-   "img": ""
+   "img": "images/d2-musmxivq.jpg",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "id": "d3",
-   "name": "قميص رجالي كلاسيك",
-   "price": 110000,
-   "old": 140000,
-   "cat": "رجالية",
+   "name": "بيجامة بناتي محير",
+   "price": 0,
+   "old": 0,
+   "cat": "نسائية",
    "stock": true,
    "emoji": "👔",
    "color": "#1d2a3a",
-   "img": ""
+   "img": "images/d3-musmxkpc.jpg"
   },
   {
    "id": "d4",
-   "name": "بنطلون جينز رجالي",
-   "price": 150000,
+   "name": "كنزة ولادي",
+   "price": 0,
    "old": 0,
-   "cat": "رجالية",
+   "cat": "ولادية",
    "stock": true,
    "emoji": "👖",
    "color": "#1b2433",
-   "img": ""
+   "img": "images/d4-musmxnb3.jpg"
   },
   {
    "id": "d5",
-   "name": "جاكيت رجالي شتوي",
-   "price": 280000,
+   "name": "بجامة ولادي",
+   "price": 0,
    "old": 0,
-   "cat": "رجالية",
+   "cat": "ولادية",
    "stock": true,
    "emoji": "🧥",
    "color": "#2a2a2e",
-   "img": ""
+   "img": "images/d5-musmxozk.jpg"
   },
   {
    "id": "d6",
@@ -282,16 +261,6 @@
    "emoji": "😴",
    "color": "#1d2530",
    "img": ""
-  },
-  {
-   "id": "p_ornek1",
-   "name": "Örnek Ürün",
-   "price": 150000,
-   "old": 180000,
-   "cat": "نسائية",
-   "stock": true,
-   "emoji": "👗",
-   "img": "detective_conan_zor_gercekten_cozulebilir_labirent.png"
   }
  ]
 }
